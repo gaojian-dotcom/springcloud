@@ -5,4 +5,4 @@ eureka:
 event: test33
 student:
    name: zhangsan
-   age: 20
+   age: 22

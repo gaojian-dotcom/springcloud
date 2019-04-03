@@ -1,5 +1,5 @@
 image:
-  server: http://dev.com
+  server: http://dev1.com
 student:
    name: zhangsan
    age: 18

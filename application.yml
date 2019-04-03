@@ -1,1 +1,2 @@
-image-server: http://test.com
+image:
+  server: http://test.com

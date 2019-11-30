@@ -1,2 +1,2 @@
-dev:
-	server: http://hello.com
+server:
+  port: 10000

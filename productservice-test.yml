@@ -11,3 +11,8 @@ eureka:
     lease-expiration-duration-in-seconds: 90
 server:
   port: 8080
+logging:
+  level:
+    root: info
+    org.springframework.web.servlet.DispatcherServlet: DEBUG
+    org.springframework.cloud.sleuth: DEBUG

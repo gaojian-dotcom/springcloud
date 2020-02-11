@@ -1,2 +1,6 @@
 image:
   server: http://dev666.com
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8888/eureka/

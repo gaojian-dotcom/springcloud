@@ -1,2 +1,4 @@
+server:
+  port: 10033
 configImage:
   server: http://image.hgz666999999.com

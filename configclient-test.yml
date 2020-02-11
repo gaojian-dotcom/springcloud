@@ -1,2 +1,6 @@
 configImage:
   server: http://image.hgz666999.com
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8888/eureka/

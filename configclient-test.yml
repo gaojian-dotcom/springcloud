@@ -2,7 +2,3 @@ configImage:
   server: http://image.hgz666999.com
 server:
   port: 10033
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8888/eureka/

@@ -1,5 +1,5 @@
 image:
-  server: http://dev66688866669999999.com
+  server: http://dev6668886666999991111199.com
 eureka:
   client:
     service-url:

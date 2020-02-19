@@ -1,17 +1,2 @@
 image:
   server: http://dev6668886666999998888.com
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8888/eureka/
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
-spring:
-  rabbitmq:
-    host: 192.168.142.134
-    virtual-host: /java1907
-    username: java1907
-    password: 123

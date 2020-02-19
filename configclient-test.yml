@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: configclient
 server:
   port: 10033
 configImage:

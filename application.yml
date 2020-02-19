@@ -1,2 +1,7 @@
 image:
   server: http://dev6668886666999998888.com
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

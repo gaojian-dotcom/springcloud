@@ -7,7 +7,7 @@ management:
         include: "*"
 spring:
   rabbitmq:
-    host: 192.168.142.134
-    virtual-host: /java1907
-    username: java1907
-    password: 123
+    host: 192.168.15.129
+    virtual-host: test
+    username: guest
+    password: guest
